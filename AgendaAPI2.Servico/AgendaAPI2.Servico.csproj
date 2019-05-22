@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AgendaAPI2.Dominio\AgendaAPI2.Dominio.csproj" />
+    <ProjectReference Include="..\AgendaAPI2.Repositorio\AgendaAPI2.Repositorio.csproj" />
+  </ItemGroup>
+
+</Project>
